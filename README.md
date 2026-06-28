@@ -7,7 +7,6 @@ A modern, responsive website for Matibidi Hospital, showcasing our healthcare se
 - **Responsive Design**: Fully responsive website that works on all devices (desktop, tablet, and mobile)
 - **Modern UI**: Clean and professional interface with Bootstrap 5
 - **Interactive Elements**: Dynamic content and smooth animations
-- **Online Appointment System**: Easy-to-use appointment booking system
 - **Department Information**: Detailed information about all hospital departments
 - **Doctor Profiles**: Information about our medical professionals
 
@@ -40,13 +39,7 @@ A modern, responsive website for Matibidi Hospital, showcasing our healthcare se
    - Specializations
    - Contact information
 
-6. **Appointment** (`appointment.html`)
-   - Online appointment booking
-   - Department selection
-   - Doctor selection
-   - Time slot booking
-
-7. **Contact** (`contact.html`)
+6. **Contact** (`contact.html`)
    - Contact form
    - Location information
    - Emergency numbers
@@ -69,7 +62,6 @@ matibidi-hospital/
 ├── services.html
 ├── departments.html
 ├── doctors.html
-├── appointment.html
 ├── contact.html
 ├── css/
 │   └── styles.css
@@ -93,14 +85,7 @@ matibidi-hospital/
 
 3. Open `index.html` in your web browser to view the website.
 
-## Features to be Added
 
-- Patient portal integration
-- Online payment system
-- Medical records access
-- Newsletter subscription
-- Multi-language support
-- Virtual consultation booking
 
 ## Browser Support
 
@@ -117,11 +102,6 @@ If you'd like to contribute, please fork the repository and create a pull reques
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-
-For any queries regarding the website, please contact:
-- Email: info@matibidihospital.com
-- Phone: (123) 456-7890
 
 ## Acknowledgments
 
